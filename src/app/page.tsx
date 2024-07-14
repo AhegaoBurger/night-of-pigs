@@ -11,7 +11,7 @@ export default function Home() {
     <main >
       <TextRevealDemo />
       <h1 className="text-5xl font-semibold text-center my-12">
-          Don't worry
+          Don&apos;t worry
           <span className="text-green-600">
             <WordRotate words={words} />
           </span>
